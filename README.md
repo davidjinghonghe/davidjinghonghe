@@ -6,6 +6,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Find me around the web 🌎:
+
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/jinghong-david-he/) 💼
+
 <!---
 davidjinghonghe/davidjinghonghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
